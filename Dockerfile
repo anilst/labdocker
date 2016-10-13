@@ -1,2 +1,2 @@
 FROM centos
-CMD ping http://www.google.com.tr -c 100
+CMD ping http://www.google.com.tr -c 5
